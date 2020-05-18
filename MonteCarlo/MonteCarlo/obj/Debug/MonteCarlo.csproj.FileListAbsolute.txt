@@ -1,0 +1,10 @@
+C:\Users\Dmitr\Downloads\MonteCarlo-master\MonteCarlo-master\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+C:\Users\Dmitr\Downloads\MonteCarlo-master\MonteCarlo-master\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\Dmitr\Downloads\MonteCarlo-master\MonteCarlo-master\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\Dmitr\Downloads\MonteCarlo-master\MonteCarlo-master\MonteCarlo\obj\Debug\MonteCarlo.csprojAssemblyReference.cache
+C:\Users\Dmitr\Downloads\MonteCarlo-master\MonteCarlo-master\MonteCarlo\obj\Debug\MonteCarlo.Form1.resources
+C:\Users\Dmitr\Downloads\MonteCarlo-master\MonteCarlo-master\MonteCarlo\obj\Debug\MonteCarlo.Properties.Resources.resources
+C:\Users\Dmitr\Downloads\MonteCarlo-master\MonteCarlo-master\MonteCarlo\obj\Debug\MonteCarlo.csproj.GenerateResource.cache
+C:\Users\Dmitr\Downloads\MonteCarlo-master\MonteCarlo-master\MonteCarlo\obj\Debug\MonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\Downloads\MonteCarlo-master\MonteCarlo-master\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Users\Dmitr\Downloads\MonteCarlo-master\MonteCarlo-master\MonteCarlo\obj\Debug\MonteCarlo.pdb
